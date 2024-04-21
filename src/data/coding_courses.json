@@ -1,0 +1,104 @@
+{
+  "courses": [
+    {
+      "id": 1,
+      "title": "Web Development Fundamentals",
+      "slug": "web-development-fundamentals",
+      "description": "Master the basics of web development with HTML, CSS, and JavaScript in this comprehensive beginner's course.",
+      "price": 99.99,
+      "instructor": "David Johnson",
+      "isFeatured": true,
+      "image": "/courses/web-dev-fundamentals.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Responsive Web Design",
+      "slug": "responsive-web-design",
+      "description": "Learn to create responsive and user-friendly websites that adapt to different devices and screen sizes.",
+      "price": 109.99,
+      "instructor": "Sarah Williams",
+      "isFeatured": false,
+      "image": "/courses/responsive-web-design.jpg"
+    },
+    {
+      "id": 3,
+      "title": "Front-End Development Mastery",
+      "slug": "front-end-development-mastery",
+      "description": "Become an expert in front-end development with advanced techniques in frameworks like React and Vue.js.",
+      "price": 119.99,
+      "instructor": "Michael Brown",
+      "isFeatured": true,
+      "image": "/courses/front-end-mastery.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Back-End Development Essentials",
+      "slug": "back-end-development-essentials",
+      "description": "Delve into back-end development using Node.js, Express, and databases like MongoDB for powerful server-side solutions.",
+      "price": 129.99,
+      "instructor": "Emily Davis",
+      "isFeatured": true,
+      "image": "/courses/back-end-essentials.jpg"
+    },
+    {
+      "id": 5,
+      "title": "Full-Stack Web Development Bootcamp",
+      "slug": "full-stack-web-development-bootcamp",
+      "description": "Become a full-stack developer by mastering both front-end and back-end technologies in this intensive bootcamp.",
+      "price": 139.99,
+      "instructor": "Chris Miller",
+      "isFeatured": false,
+      "image": "/courses/full-stack-bootcamp.jpg"
+    },
+    {
+      "id": 6,
+      "title": "Advanced Web Technologies",
+      "slug": "advanced-web-technologies",
+      "description": "Explore cutting-edge web technologies such as GraphQL, WebAssembly, and progressive web apps (PWAs) for modern web development.",
+      "price": 149.99,
+      "instructor": "Alex Harris",
+      "isFeatured": true,
+      "image": "/courses/advanced-web-tech.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Web Security and Ethical Hacking",
+      "slug": "web-security-ethical-hacking",
+      "description": "Learn how to secure web applications and explore ethical hacking techniques to protect against cyber threats.",
+      "price": 159.99,
+      "instructor": "Samantha Wilson",
+      "isFeatured": false,
+      "image": "/courses/web-security.jpg"
+    },
+    {
+      "id": 8,
+      "title": "Cloud Computing for Web Developers",
+      "slug": "cloud-computing-web-developers",
+      "description": "Discover cloud computing platforms like AWS and Azure to deploy, scale, and manage web applications efficiently.",
+      "price": 169.99,
+      "instructor": "Luke Moore",
+      "isFeatured": true,
+      "image": "/courses/cloud-computing.jpg"
+    },
+    {
+      "id": 9,
+      "title": "UI/UX Design Principles",
+      "slug": "ui-ux-design-principles",
+      "description": "Learn the principles of user interface (UI) and user experience (UX) design to create engaging and intuitive web interfaces.",
+      "price": 179.99,
+      "instructor": "Grace Lee",
+      "isFeatured": false,
+      "image": "/courses/ui-ux-design.jpg"
+    },
+    {
+      "id": 10,
+      "title": "Web Development Portfolio Workshop",
+      "slug": "web-dev-portfolio-workshop",
+      "description": "Build a professional portfolio showcasing your web development projects and skills to impress potential employers.",
+      "price": 189.99,
+      "instructor": "Ethan Wilson",
+      "isFeatured": true,
+      "image": "/courses/portfolio-workshop.jpg"
+    }
+  ]
+}

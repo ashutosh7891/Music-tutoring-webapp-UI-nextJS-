@@ -14,11 +14,11 @@ function HeroSection() {
         fill="white"
       />
         <div className='p-4 relative z-10 w-full text-center'>
-            <h1 className='mt-20 md:mt-0 text-4xl md:text-7xl bg-clip-text font-bold text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 '>
-                Master the art of music
+            <h1 className='mt-20 md:mt-0 text-3xl md:text-7xl bg-clip-text font-bold text-transparent bg-gradient-to-b from-neutral-50 to-neutral-400 '>
+            Embark on Your Web Development Journey
             </h1>
             <p className="mt-4 font-normal text-base md:text-lg text-neutral-300 max-w-lg mx-auto">
-                Dive into our comprehensive music courses and transform the musical journey today. Weather you're a beginner or looking to refine your skills, join to unlock our true potential 
+            Discover the power of web development with our comprehensive courses designed to take you from a beginner to a proficient developer. Whether you're stepping into the world of coding or seeking to enhance your skills, our courses are tailored to unlock your true potential in web development.
             </p>
             <div className="mt-4 ">
                 <Link href = {'/courses'}>
