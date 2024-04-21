@@ -8,7 +8,7 @@
       "price": 99.99,
       "instructor": "David Johnson",
       "isFeatured": true,
-      "image": "/courses/web-dev-fundamentals.jpg"
+      "image": "https://unsplash.com/photos/text-cWUPyE8qggw"
     },
     {
       "id": 2,
